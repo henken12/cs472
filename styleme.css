@@ -1,0 +1,18 @@
+.body{
+    background-color: rgb(104, 123, 107);
+}
+.titles{
+    color:rgb(88, 159, 203);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.paras{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.paras > strong{
+    color:rgb(236, 247, 27)
+}
+.paras > li > a{
+color: red;
+}
